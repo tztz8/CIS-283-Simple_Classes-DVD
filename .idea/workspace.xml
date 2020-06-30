@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0f38f410-c537-4d5b-92ca-ee50aa8d8063" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1Wzb0tFQwl3LqlbW5dI0vDpTdI3" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Ruby.SimpleClasses_Freeman">
+    <configuration name="IRB console: Simple Classes - DVD" type="IrbRunConfigurationType" factoryName="IRB console" temporary="true">
+      <module name="Simple Classes - DVD" />
+      <IRB_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <IRB_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <IRB_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <IRB_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <IRB_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
+      <IRB_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$APPLICATION_HOME_DIR$/rb/testing/runner/irb.rb" />
+      <IRB_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="--prompt simple" />
+      <IRB_RUN_CONFIG NAME="IS_RAILS_CONSOLE" VALUE="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SimpleClasses_Freeman" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="Simple Classes - DVD" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/SimpleClasses_Freeman.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Ruby.SimpleClasses_Freeman" />
+        <item itemvalue="IRB console.IRB console: Simple Classes - DVD" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" RAKE_SPRING_PRE_LOADER_OPTION="true" RAILS_SPRING_PRE_LOADER_OPTION="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f38f410-c537-4d5b-92ca-ee50aa8d8063" name="Default Changelist" comment="" />
+      <created>1580155150107</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580155150107</updated>
+      <workItem from="1580155151435" duration="2842000" />
+      <workItem from="1580228434638" duration="8000" />
+      <workItem from="1580700510043" duration="4000" />
+      <workItem from="1580932197168" duration="8978000" />
+      <workItem from="1581017915808" duration="4550000" />
+      <workItem from="1581091562137" duration="8000" />
+      <workItem from="1581095957271" duration="1439000" />
+      <workItem from="1581314744110" duration="505000" />
+      <workItem from="1581436455445" duration="716000" />
+      <workItem from="1581522080971" duration="3566000" />
+      <workItem from="1581532065807" duration="19000" />
+      <workItem from="1581536324401" duration="1292000" />
+      <workItem from="1581570789593" duration="276000" />
+      <workItem from="1581614854385" duration="48000" />
+      <workItem from="1582064472929" duration="638000" />
+      <workItem from="1582085140560" duration="10000" />
+      <workItem from="1582087874439" duration="35000" />
+      <workItem from="1582127897884" duration="1897000" />
+      <workItem from="1582136314095" duration="697000" />
+      <workItem from="1582139520302" duration="583000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Simple_Classes___DVD@SimpleClasses_Freeman.rcov" NAME="SimpleClasses_Freeman Coverage Results" MODIFIED="1581524758644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Simple Classes - DVD" />
+    <SUITE FILE_PATH="coverage/Simple_Classes___DVD@IRB_console__Simple_Classes___DVD.rcov" NAME="IRB console: Simple Classes - DVD Coverage Results" MODIFIED="1580156211239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Simple Classes - DVD" />
+  </component>
+</project>
